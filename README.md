@@ -6,14 +6,14 @@ This project was commissioned to me by my General Manager during my eployment at
 
 ## Progress
 
-!()[/progress1.png]
+![](/progress1.png)
 
-!()[/progress2.png]
+![](/progress2.png)
 
-!()[/progress3.png]
+![](/progress3.png)
 
-!()[/progress4.png]
+![](/progress4.png)
 
-!()[/progress5.png]
+![](/progress5.png)
 
-!()[/progress6.png]
+![](/progress6.png)
