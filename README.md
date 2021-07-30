@@ -2,7 +2,7 @@
 
 This project was commissioned to me by my General Manager during my eployment at Startbucks. He had an idea to dedicate a store in the district to Pride theme and needed help visualizing it and this is the final result.
 
-!()[/FinalRender.png]
+![](/FinalRender.png)
 
 ## Progress
 
