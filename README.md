@@ -1,6 +1,7 @@
 # Starbucks Pride Themed 3D Model
 
 This project was commissioned to me by my General Manager during my employment at Starbucks. He had an idea to dedicate a store in the district to a Pride theme and needed help visualizing it. Here is the final result.
+
 (Open this image with a 360º image viewer for a better look!)
 
 ![](/FinalRender.png)
